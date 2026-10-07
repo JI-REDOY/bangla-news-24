@@ -50,6 +50,6 @@ export default async function ArticlePage({ params }: { params: Params }) {
                     মূল সূত্র: {article.source}
                 </a>
             </div>
-        </main>
+        </main><> </>
     );
 }
